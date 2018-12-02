@@ -1,2 +1,2 @@
 # finalProjectCS125
-Final project on white noise for CS 125
+Final project on illini spaces for CS 125
